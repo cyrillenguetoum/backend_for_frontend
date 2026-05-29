@@ -28,5 +28,10 @@ go.work.sum
 .env
 
 # Editor/IDE
-# .idea/
-# .vscode/
+.idea/
+.vscode/
+
+# Speckit specification tooling (internal development only)
+.specify/
+.github/agents/
+.github/prompts/
